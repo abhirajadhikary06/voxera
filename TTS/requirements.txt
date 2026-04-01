@@ -1,0 +1,20 @@
+
+pyttsx3==2.90
+gTTS==2.5.1
+edge-tts==6.1.12
+
+kokoro==0.9.4
+piper-tts==1.4.1
+transformers>=4.31.0
+scipy
+torch
+numpy
+asyncio
+ python-dotenv
+
+
+
+
+
+
+
