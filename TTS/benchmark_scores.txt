@@ -1,0 +1,12 @@
+gTTS         7.400 seconds     ACCURACY:     96.39%
+edge-tts     9.444 seconds     ACCURACY:     98.80%         
+pyttsx3      6.664 seconds     ACCURACY:     97.59%         (bad maintainers)
+Kokoro       12.794 seconds   ACCURACY:     98.80%         (chod bhangra very much)
+
+
+API providers:-
+
+eleven labs  7.261 seconds    ACCURACY:     98.80%
+cartesia     12.509 seconds   ACCURACY:     98.59%
+deepgram     18.935 seconds   ACCURACY:     100.00%
+Respeecher   11.024 seconds   ACCURACY:     96.39%
